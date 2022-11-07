@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -26,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My first solution ](./main/images/FrontendMentor-ProductPreviewCardComponent.png)
+![My first solution ](./blob/master/images/FrontendMentor-ProductPreviewCardComponent.png)
 
 This is the screenshot of my first solution.
 
@@ -41,12 +40,6 @@ This is the screenshot of my first solution.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### Continued development
-
-- Responsive design
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
