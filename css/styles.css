@@ -85,6 +85,11 @@ header>h1{
     margin:0;
 }
 
+#content>p:last-of-type:hover{
+    background-color:hsl(158,36%,17%);
+    color:hsl(0, 0%, 100%);
+}
+
 #content>p:last-of-type{
     border-radius:0.5em;
     background-color:hsl(158, 36%, 37%);
