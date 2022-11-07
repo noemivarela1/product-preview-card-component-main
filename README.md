@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My first solution ](./blob/master/images/FrontendMentor-ProductPreviewCardComponent.png)
+![My first solution ](./images/FrontendMentor-ProductPreviewCardComponent.png)
 
 This is the screenshot of my first solution.
 
