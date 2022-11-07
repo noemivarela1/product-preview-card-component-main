@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My first solution ](./images/FrontEndMentor-ProductPreviewCardComponent.png)
+![My first solution ](images/FrontEndMentor-ProductPreviewCardComponent.png)
 
 This is the screenshot of my first solution.
 
