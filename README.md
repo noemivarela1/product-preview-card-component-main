@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My first solution ](https://noemivarela1.github.io/product-preview-card-component-main/images/FrontEndMentor-ProductPreviewCardComponent.png)
+![My first solution ](./main/images/FrontendMentor-ProductPreviewCardComponent.png)
 
 This is the screenshot of my first solution.
 
