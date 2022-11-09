@@ -41,17 +41,17 @@ article>img:nth-of-type(2){
     display:flex;
     flex-direction:column;
     background-color:hsl(0, 0%, 100%);
-    padding:2em;
+    padding:1em 2em 2em 2em;
     margin-bottom:2rem;
     border-radius:0 0 10px 10px;
 }
 
 body p,#old_prix{
-    font-size:16px;
+    font-size:14px;
     font-family:Montserrat;
     font-weight:500;
     color:hsl(228, 12%, 48%);
-    line-height:2em;
+    line-height:1.5em;
 }
 
 header>p{
@@ -59,15 +59,17 @@ header>p{
     color:hsl(228, 12%, 48%);
     font-weight:700;
     letter-spacing:0.5em;
+    margin-top:0.5em;
+    margin-bottom:0.5em;
 }
 
 header>h1{
     color:hsl(212, 21%, 14%);
     font-family:Fraunces;
     font-weight:700;
-    font-size:2.4em;
-    margin-top:1rem;
-    margin-bottom:0.5rem;
+    font-size:2em;
+    margin-top:0.2em;
+    margin-bottom:0.1em;
     line-height:1em;
 }
 #prix{
